@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ammarsohail702
+- 👋 Hi, I’m Muhammad Ammar Sohail Rana
 - 👀 I’m interested in Web and Application Development
-- 🌱 I’m currently learning SPA's and mobile development
-- 💞️ I’m looking to collaborate on Enterprise level projects
+- 🌱 I’m currently learning SPA's and mobile development.
+- 💞️ I’m looking to collaborate on Enterprise level and startup projects.
 - 📫 You can reach me through my email ammarsohail702@gmail.com
 
 <!---
